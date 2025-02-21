@@ -15,7 +15,7 @@ This project is a **frontend clone** of **Disney+ Hotstar**, built using modern 
 - **JavaScript** – For interactivity and dynamic elements.  
 
 ## 🎥 Live Demo:  
-(Link to your hosted version, if available)  
+[Project Link](https://nitian-rockstar.github.io/Disney-Hostar-Clone/#)  
 
 ## 📂 How to Run Locally:  
 1. Clone this repository:  
